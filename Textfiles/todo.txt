@@ -1,0 +1,20 @@
+Add cooldowns
+Fix save commands (set up online DB)
+Add online Full Log (Online DB)
+Verify Heroku Account
+
+
+
+DB CREDS: id15544419_carbonsmasher1138
+%R<-9od3BZ^C&j4C
+
+
+NEW DB CREDS:
+USER cArAmElDbUsEr
+n7GOfDpcm5QzXRWB
+
+
+record-online-voice-recorder_4KdSOIl
+
+db9bd74e-5bfd-4120-98bf-92193578094b hypixel api
+https://api.hypixel.net/player?key=db9bd74e-5bfd-4120-98bf-92193578094b&name=CarbonSmasher

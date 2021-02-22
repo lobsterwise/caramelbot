@@ -1,0 +1,2 @@
+.load Documents\GitHub\logans-weird-bot\LoganBot.js
+.load OneDrive\Documents\GitHub\logans-weird-bot\LoganBot.js

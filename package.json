@@ -24,6 +24,7 @@
     "nostra": "0.0.7",
     "questionable": "2.0.1",
     "translate-google": "1.4.3",
-    "ytdl-core": "3.2.2"
+    "ytdl-core": "3.2.2",
+    "dotenv": "8.2.0"
   }
 }

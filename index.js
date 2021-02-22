@@ -82,7 +82,7 @@ function tokens() {
 	token = process.env.TOKENDO;
 }
 tokens();
-client.login(testingtoken);
+client.login(token);
 
 function website() {
 	const http = require('http');

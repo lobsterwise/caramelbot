@@ -1,0 +1,1 @@
+echo node Documents\GitHub\logans-weird-bot\LoganBot.js| clip

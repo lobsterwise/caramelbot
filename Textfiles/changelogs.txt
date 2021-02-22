@@ -1,0 +1,20 @@
+		cl.addField("\u2022 Added the `blockquote`/`bq` command", "Easily make blockquotes", false);
+		cl.addField("\u2022 Added the `fidgetspinner` command", "For when you just need to fidget", false);
+		cl.addField("\u2022 Added the `bottleflip`/`bf` command", "Try to land it!", false);
+		cl.addField("\u2022 Added the `inst` command", "Easily find sound effects", false);
+		cl.addField("\u2022 Added the `feedback` command", "Submit feedback for my bot!", false);
+		cl.addField("\u2022 Added the `count` command", "A pointless number to increase", false);
+		cl.addField("\u2022 Added the `wikihow` command", "Gives you a weird wikiHow article", false);
+		cl.addField("\u2022 Added the `roll` command", "Generate a number anywhere from 1 to 100 million", false);
+		cl.addField("\u2022 Added the `fortune` command", "Stare into a crystal ball and learn your future!", false);
+		cl.addField("\u2022 Added the `changelog` command", "This command right here!", false);
+		cl.addField("\u2022 Added the `qu` command", "Asks you a question. Try answering in ouija style!", false);
+
+
+		cl.addField("\u2022 Added the `scroll` command", "Scrolls the screen down; helpful if a text channel is cluttered", false);
+		cl.addField("\u2022 Added the `reveal` command", "Makes text hidden until clicked", false);
+		cl.addField("\u2022 Added the `bubblewrap` command", "Creates some bubblewrap for you to pop!", false);
+		cl.addField("\u2022 Added the `quiz` command", "Creates a quiz! Currently only one question is available", false);
+		cl.addField("\u2022 Added the `lmeow` command", "**lmeow**", false);
+		cl.addField("\u2022 Added the `who` command", "Get information about a user", false);
+		cl.addField("\u2022 Added the `yell` command", "Shouts text in a very large format", false);
