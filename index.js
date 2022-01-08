@@ -9,7 +9,6 @@ require('dotenv').config()
 //const translate = require('translate-google');
 //const morse = require('morse');
 //const Keyv = require('keyv');
-//const keyv = new Keyv('mongodb://cArAmElDbUsEr:thisisatestpasswordfortesting@carameldata-shard-00-00.dsyqd.mongodb.net:27017,carameldata-shard-00-01.dsyqd.mongodb.net:27017,carameldata-shard-00-02.dsyqd.mongodb.net:27017/?replicaSet=atlas-r86oxi-shard-0&ssl=true&tls=true&authSource=admin');
 //const ytdl = require('ytdl-core');
 
 function clearCool(user,cmd) {
